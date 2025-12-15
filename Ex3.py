@@ -1,3 +1,5 @@
+#removes the first few letters of a word
+
 def remove_chars(word,n):
     if len(word) < n:
         return print("Either word is too small or n is too large. Try again!")

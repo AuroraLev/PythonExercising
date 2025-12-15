@@ -1,3 +1,5 @@
+#prints out every second letter of a word
+
 word = str(input("Enter a word where every second letter of the word should be printed out: "))
 
 numb = len(word)
